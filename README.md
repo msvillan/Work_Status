@@ -3,9 +3,9 @@
 ### Update - 28/05/2020
 
 ## Login
-- [ ] Admin
-- [ ] Tutor
-- [ ] Teacher
+- [x] Admin
+- [x] Tutor
+- [x] Teacher
 - [ ] Validations
 
 ## Tutor - Add student
